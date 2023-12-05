@@ -1,0 +1,1 @@
+el operando 1 es:4el operando 2 es:3el operador es:-1
